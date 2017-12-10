@@ -507,7 +507,7 @@ nav#mainNav a.active:after {
 
 .clientSlider li {
 	margin-bottom:40px;
-	scroll: auto;
+	
 }
 
 .clientSlider li a{
